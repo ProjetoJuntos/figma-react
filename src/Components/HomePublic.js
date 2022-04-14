@@ -84,7 +84,8 @@ export default function HomePublic () {
 			CEP: 034577-220
 			São Paulo • SP
 			(11) 2189-4450
-			informacoes@juntos.com.br</span>
+			informacoes@juntos.com.br
+</span>
 		</div>
 		<span className='Resultadosdasaessociais'>Resultados das ações sociais</span>
 		<span className='_200Familiabeneficiadas'>+200 Familia beneficiadas</span>
@@ -98,9 +99,9 @@ export default function HomePublic () {
 				</Link>
 				<span className='QUEMSOMOS'>QUEM SOMOS</span>
 				<Link to='/undefined'>
-					<span className='Doaes'>Doações</span>
+					<span className='Doaes'>DOAÇÕES</span>
 				</Link>
-				<Link to='/undefined'>
+				<Link to='/HomePublic'>
 					<span className='Doaes_1'>INÍCIO </span>
 				</Link>
 			</div>

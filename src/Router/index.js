@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import HomePage from '../Components/index';
+import HomePage from '../Components/HomePublic';
 import Cadastrodoao from '../Components/Cadastrodoao';
 import Dashiconsno from '../Components/dashiconsno';
 import Icbaselineaddaphoto from '../Components/icbaselineaddaphoto';
@@ -27,7 +27,7 @@ const RouterDOM = () => {
 	return (
 		<Router>
 			<Switch>
-				<Route exact path="/"><HomePage /></Route>
+				<Route exact path="/"><HomePublic /></Route>
 				<Route exact path="/cadastrodoao"><Cadastrodoao /></Route>
 				<Route exact path="/dashiconsno"><Dashiconsno /></Route>
 				<Route exact path="/icbaselineaddaphoto"><Icbaselineaddaphoto /></Route>
