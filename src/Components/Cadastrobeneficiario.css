@@ -1,0 +1,366 @@
+
+.Cadastrobeneficiario_Cadastrobeneficiario {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1246px;
+	background : rgba(255,255,255,1);
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Desejoreceber {
+	position: absolute;
+	left: 1055px;
+	top: 411px;
+	width: 293px;
+	height: 56px;
+	color : rgba(0,0,34.00000177323818,1);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Roupa {
+	position: absolute;
+	left: 1117px;
+	top: 502px;
+	width: 83px;
+	height: 42px;
+	color : rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Alimento {
+	position: absolute;
+	left: 1117px;
+	top: 569px;
+	width: 118px;
+	height: 42px;
+	color : rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Rectangle23 {
+	position: absolute;
+	left: 0px;
+	top: 1196px;
+	width: 1440px;
+	height: 50px;
+	background : rgba(4.000000236555934,8.000000473111868,15.000000055879354,1);
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .btncadastrodoao {
+	position: absolute;
+	left: 597px;
+	top: 1057px;
+	width: 286px;
+	height: 61px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .btncadastrodoao .Rectangle15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 286px;
+	height: 61px;
+	background : rgba(71.00000336766243,229.00000154972076,188.0000039935112,1);
+	border-radius: 8px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .btncadastrodoao .Cadastrar {
+	position: absolute;
+	left: 34.017578125px;
+	top: 14.5982666015625px;
+	width: 219.224609375px;
+	height: 32.3248291015625px;
+	color : rgba(255,255,255,1);
+	border: 1px solid rgba(255,255,255,1);
+	font-family: Baumans;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 27.167999267578125px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Rectangle16 {
+	position: absolute;
+	left: 65px;
+	top: 398px;
+	width: 610px;
+	height: 39px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Nome {
+	position: absolute;
+	left: 65px;
+	top: 356px;
+	width: 255px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Rectangle24 {
+	position: absolute;
+	left: 65px;
+	top: 533px;
+	width: 610px;
+	height: 39px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .DocumentoCPFCNPJ {
+	position: absolute;
+	left: 65px;
+	top: 489px;
+	width: 379px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Rectangle26 {
+	position: absolute;
+	left: 65px;
+	top: 803px;
+	width: 610px;
+	height: 39px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Telefone {
+	position: absolute;
+	left: 65px;
+	top: 759px;
+	width: 129px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Rectangle27 {
+	position: absolute;
+	left: 65px;
+	top: 938px;
+	width: 610px;
+	height: 39px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .DatadeNascimento {
+	position: absolute;
+	left: 65px;
+	top: 894px;
+	width: 305px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Rectangle25 {
+	position: absolute;
+	left: 65px;
+	top: 668px;
+	width: 610px;
+	height: 39px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Endereo {
+	position: absolute;
+	left: 65px;
+	top: 624px;
+	width: 255px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .check_box {
+	position: absolute;
+	left: 1055px;
+	top: 503px;
+	width: 40px;
+	height: 40px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .check_box .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .check_box .Vector_1 {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 75%;
+	height: 75%;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .check_box_1 {
+	position: absolute;
+	left: 1055px;
+	top: 503px;
+	width: 40px;
+	height: 40px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .check_box_1 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .check_box_1 .Vector_3 {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 75%;
+	height: 75%;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .check_box_2 {
+	position: absolute;
+	left: 1055px;
+	top: 569px;
+	width: 40px;
+	height: 40px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .check_box_2 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .check_box_2 .Vector_5 {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 75%;
+	height: 75%;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .CADASTROBENEFICIRIO {
+	position: absolute;
+	left: 65px;
+	top: 264px;
+	width: 350px;
+	height: 37px;
+	color : rgba(196.00000351667404,196.00000351667404,196.00000351667404,1);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Juntos3 {
+	position: absolute;
+	left: 0.117431640625px;
+	top: 3px;
+	width: 14.485388861762152%;
+	height: 14.370693249648877%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .linha {
+	position: absolute;
+	left: 0px;
+	top: 186.179931640625px;
+	width: 1440.209716796875px;
+	height: 31.002685546875px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .linha .Rectangle24_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.209716796875px;
+	height: 31.002685546875px;
+	background : rgba(159.0000057220459,159.0000057220459,173.00000488758087,1);
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .linha .Rectangle25_1 {
+	position: absolute;
+	left: 0px;
+	top: 16px;
+	width: 1440.209716796875px;
+	height: 15.002685546875px;
+	background : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Voluntrios {
+	position: absolute;
+	left: 458px;
+	top: 91.17626953125px;
+	width: 313.010009765625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Beneficirios {
+	position: absolute;
+	left: 688.999755859375px;
+	top: 91.1767578125px;
+	width: 313.010009765625px;
+	height: 38.08447265625px;
+	color : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Configuraes {
+	position: absolute;
+	left: 920.999755859375px;
+	top: 91.17724609375px;
+	width: 286.010009765625px;
+	height: 38.0771484375px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .SAIR {
+	position: absolute;
+	left: 1141.131591796875px;
+	top: 90.307861328125px;
+	width: 214.010009765625px;
+	height: 38.0577392578125px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Doaes {
+	position: absolute;
+	left: 261px;
+	top: 91.176025390625px;
+	width: 313.010009765625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Vector_6 {
+	position: absolute;
+	left: 179.828369140625px;
+	top: 81.388671875px;
+	width: 3.4343804253472223%;
+	height: 3.782279074287721%;
+}
+.Cadastrobeneficiario_Cadastrobeneficiario .Doaes_1 {
+	position: absolute;
+	left: 127px;
+	top: 91.17578125px;
+	width: 313.010009765625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}

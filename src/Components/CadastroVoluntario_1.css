@@ -1,0 +1,753 @@
+
+.CadastroVoluntario_1_CadastroVoluntario {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1246px;
+	background : rgba(255,255,255,1);
+}
+.CadastroVoluntario_1_CadastroVoluntario .Tipodeveculo {
+	position: absolute;
+	left: 868px;
+	top: 558px;
+	width: 308px;
+	height: 49px;
+	color : rgba(0,0,34.00000177323818,1);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Carro {
+	position: absolute;
+	left: 949px;
+	top: 637px;
+	width: 78px;
+	height: 37px;
+	color : rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .MotoBicicleta {
+	position: absolute;
+	left: 902px;
+	top: 694px;
+	width: 293px;
+	height: 37px;
+	color : rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Outros {
+	position: absolute;
+	left: 943px;
+	top: 747px;
+	width: 97px;
+	height: 37px;
+	color : rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Rectangle23 {
+	position: absolute;
+	left: 0px;
+	top: 1196px;
+	width: 1440px;
+	height: 50px;
+	background : rgba(4.000000236555934,8.000000473111868,15.000000055879354,1);
+}
+.CadastroVoluntario_1_CadastroVoluntario .btncadastrodoao {
+	position: absolute;
+	left: 597px;
+	top: 1057px;
+	width: 286px;
+	height: 61px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .btncadastrodoao .Rectangle15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 286px;
+	height: 61px;
+	background : rgba(71.00000336766243,229.00000154972076,188.0000039935112,1);
+	border-radius: 8px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .btncadastrodoao .Cadastrar {
+	position: absolute;
+	left: 34.017578125px;
+	top: 14.5982666015625px;
+	width: 219.224609375px;
+	height: 32.32476806640625px;
+	color : rgba(255,255,255,1);
+	border: 1px solid rgba(255,255,255,1);
+	font-family: Baumans;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 27.167999267578125px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Rectangle16 {
+	position: absolute;
+	left: 65px;
+	top: 392px;
+	width: 610px;
+	height: 39px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Nome {
+	position: absolute;
+	left: 65px;
+	top: 348px;
+	width: 255px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Rectangle24 {
+	position: absolute;
+	left: 65px;
+	top: 519px;
+	width: 610px;
+	height: 39px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .DocumentoCPFCNPJ {
+	position: absolute;
+	left: 65px;
+	top: 475px;
+	width: 395px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Rectangle26 {
+	position: absolute;
+	left: 65px;
+	top: 813px;
+	width: 610px;
+	height: 39px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Telefone {
+	position: absolute;
+	left: 65px;
+	top: 769px;
+	width: 129px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Rectangle25 {
+	position: absolute;
+	left: 65px;
+	top: 666px;
+	width: 610px;
+	height: 39px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Endereo {
+	position: absolute;
+	left: 65px;
+	top: 622px;
+	width: 255px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box {
+	position: absolute;
+	left: 880px;
+	top: 638px;
+	width: 42px;
+	height: 35px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box .Vector_1 {
+	position: absolute;
+	left: 5.25px;
+	top: 4.375px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_1 {
+	position: absolute;
+	left: 880px;
+	top: 638px;
+	width: 42px;
+	height: 35px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_1 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_1 .Vector_3 {
+	position: absolute;
+	left: 5.25px;
+	top: 4.375px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_2 {
+	position: absolute;
+	left: 880px;
+	top: 696px;
+	width: 42px;
+	height: 35px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_2 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_2 .Vector_5 {
+	position: absolute;
+	left: 5.25px;
+	top: 4.375px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_3 {
+	position: absolute;
+	left: 880px;
+	top: 638px;
+	width: 42px;
+	height: 35px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_3 .Vector_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_3 .Vector_7 {
+	position: absolute;
+	left: 5.25px;
+	top: 4.375px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_4 {
+	position: absolute;
+	left: 880px;
+	top: 638px;
+	width: 42px;
+	height: 35px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_4 .Vector_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_4 .Vector_9 {
+	position: absolute;
+	left: 5.25px;
+	top: 4.375px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_5 {
+	position: absolute;
+	left: 880px;
+	top: 696px;
+	width: 42px;
+	height: 35px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_5 .Vector_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_5 .Vector_11 {
+	position: absolute;
+	left: 5.25px;
+	top: 4.375px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_6 {
+	position: absolute;
+	left: 880px;
+	top: 747px;
+	width: 42px;
+	height: 35px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_6 .Vector_12 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_6 .Vector_13 {
+	position: absolute;
+	left: 5.25px;
+	top: 4.375px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Possotransportar {
+	position: absolute;
+	left: 869px;
+	top: 819px;
+	width: 379px;
+	height: 49px;
+	color : rgba(0,0,34.00000177323818,1);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Roupa {
+	position: absolute;
+	left: 943px;
+	top: 887px;
+	width: 87px;
+	height: 36px;
+	color : rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Alimento {
+	position: absolute;
+	left: 943px;
+	top: 945px;
+	width: 124px;
+	height: 37px;
+	color : rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_7 {
+	position: absolute;
+	left: 877px;
+	top: 888px;
+	width: 43px;
+	height: 35px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_7 .Vector_14 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_7 .Vector_15 {
+	position: absolute;
+	left: 5.375px;
+	top: 4.375px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_8 {
+	position: absolute;
+	left: 877px;
+	top: 888px;
+	width: 43px;
+	height: 35px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_8 .Vector_16 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_8 .Vector_17 {
+	position: absolute;
+	left: 5.375px;
+	top: 4.375px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_9 {
+	position: absolute;
+	left: 877px;
+	top: 945px;
+	width: 43px;
+	height: 35px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_9 .Vector_18 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_9 .Vector_19 {
+	position: absolute;
+	left: 5.375px;
+	top: 4.375px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Juntos3 {
+	position: absolute;
+	left: 0.117431640625px;
+	top: 0px;
+	width: 14.485388861762152%;
+	height: 14.370695698892707%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CadastroVoluntario_1_CadastroVoluntario .linha {
+	position: absolute;
+	left: 0px;
+	top: 186.17999267578125px;
+	width: 1440.2099609375px;
+	height: 31.002685546875px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .linha .Rectangle24_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.2099609375px;
+	height: 31.002685546875px;
+	background : rgba(159.0000057220459,159.0000057220459,173.00000488758087,1);
+}
+.CadastroVoluntario_1_CadastroVoluntario .linha .Rectangle25_1 {
+	position: absolute;
+	left: 0px;
+	top: 16px;
+	width: 1440.2099609375px;
+	height: 15.002685546875px;
+	background : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+}
+.CadastroVoluntario_1_CadastroVoluntario .Voluntrios {
+	position: absolute;
+	left: 458px;
+	top: 88.17626953125px;
+	width: 313.009765625px;
+	height: 38.08447265625px;
+	color : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Beneficirios {
+	position: absolute;
+	left: 688.99951171875px;
+	top: 88.1767578125px;
+	width: 313.01025390625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Configuraes {
+	position: absolute;
+	left: 920.99951171875px;
+	top: 88.17724609375px;
+	width: 286.01025390625px;
+	height: 38.077178955078125px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .SAIR {
+	position: absolute;
+	left: 1141.13134765625px;
+	top: 87.307861328125px;
+	width: 214.01025390625px;
+	height: 38.057769775390625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Doaes {
+	position: absolute;
+	left: 261px;
+	top: 88.176025390625px;
+	width: 313.009765625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Vector_20 {
+	position: absolute;
+	left: 179.828369140625px;
+	top: 78.388671875px;
+	width: 3.4343804253472223%;
+	height: 3.7822815235315512%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Doaes_1 {
+	position: absolute;
+	left: 127px;
+	top: 88.17578125px;
+	width: 313.010009765625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Juntos4 {
+	position: absolute;
+	left: 0.117431640625px;
+	top: 0px;
+	width: 14.485388861762152%;
+	height: 14.370695698892707%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CadastroVoluntario_1_CadastroVoluntario .linha_1 {
+	position: absolute;
+	left: 0px;
+	top: 186.17999267578125px;
+	width: 1440.2099609375px;
+	height: 31.002685546875px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .linha_1 .Rectangle24_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.2099609375px;
+	height: 31.002685546875px;
+	background : rgba(159.0000057220459,159.0000057220459,173.00000488758087,1);
+}
+.CadastroVoluntario_1_CadastroVoluntario .linha_1 .Rectangle25_2 {
+	position: absolute;
+	left: 0px;
+	top: 16px;
+	width: 1440.2099609375px;
+	height: 15.002685546875px;
+	background : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+}
+.CadastroVoluntario_1_CadastroVoluntario .Voluntrios_1 {
+	position: absolute;
+	left: 458px;
+	top: 88.17626953125px;
+	width: 313.009765625px;
+	height: 38.08447265625px;
+	color : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Beneficirios_1 {
+	position: absolute;
+	left: 688.99951171875px;
+	top: 88.1767578125px;
+	width: 313.01025390625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Configuraes_1 {
+	position: absolute;
+	left: 920.99951171875px;
+	top: 88.17724609375px;
+	width: 286.01025390625px;
+	height: 38.077178955078125px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .SAIR_1 {
+	position: absolute;
+	left: 1141.13134765625px;
+	top: 87.307861328125px;
+	width: 214.01025390625px;
+	height: 38.057769775390625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Doaes_2 {
+	position: absolute;
+	left: 261px;
+	top: 88.176025390625px;
+	width: 313.009765625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Vector_21 {
+	position: absolute;
+	left: 179.828369140625px;
+	top: 78.388671875px;
+	width: 3.4343804253472223%;
+	height: 3.7822815235315512%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Doaes_3 {
+	position: absolute;
+	left: 127px;
+	top: 88.17578125px;
+	width: 313.010009765625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .PessoaFsica {
+	position: absolute;
+	left: 128px;
+	top: 929px;
+	width: 223px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .PessoaJurdica {
+	position: absolute;
+	left: 429px;
+	top: 929px;
+	width: 256px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_10 {
+	position: absolute;
+	left: 65px;
+	top: 929px;
+	width: 40px;
+	height: 40px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_10 .Vector_22 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .check_box_10 .Vector_23 {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Vector_24 {
+	position: absolute;
+	left: 370px;
+	top: 929px;
+	width: 2.7777777777777777%;
+	height: 3.210272873194221%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .InserirFoto {
+	position: absolute;
+	left: 881px;
+	top: 469px;
+	width: 255px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .ictwotonephotocamerafront {
+	position: absolute;
+	left: 846px;
+	top: 232px;
+	width: 273px;
+	height: 259px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .ictwotonephotocamerafront .Vector_25 {
+	position: absolute;
+	left: 45.5px;
+	top: 53.95832824707031px;
+	width: 66.66666666666666%;
+	height: 58.33334315237392%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .ictwotonephotocamerafront .Vector_26 {
+	position: absolute;
+	left: 22.75px;
+	top: 32.375px;
+	width: 83.33333333333334%;
+	height: 75%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .ictwotonephotocamerafront .Vector_27 {
+	position: absolute;
+	left: 198.88671875px;
+	top: 259px;
+	width: 20.962110805860807%;
+	height: 17.56756756756757%;
+}
+.CadastroVoluntario_1_CadastroVoluntario .CADASTROVOLUNTRIO {
+	position: absolute;
+	left: 57px;
+	top: 265px;
+	width: 335px;
+	height: 37px;
+	color : rgba(196.00000351667404,196.00000351667404,196.00000351667404,1);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroVoluntario_1_CadastroVoluntario .Vector_28 {
+	position: absolute;
+	left: 1075px;
+	top: 458px;
+	width: 4.259270562065972%;
+	height: 4.49438202247191%;
+}

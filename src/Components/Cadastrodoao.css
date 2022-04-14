@@ -1,0 +1,447 @@
+
+.Cadastrodoao_Cadastrodoao {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1234px;
+	background : rgba(255,255,255,1);
+}
+.Cadastrodoao_Cadastrodoao .Rectangle23 {
+	position: absolute;
+	left: 0px;
+	top: 1184px;
+	width: 1310px;
+	height: 50px;
+	background : rgba(4.000000236555934,8.000000473111868,15.000000055879354,1);
+}
+.Cadastrodoao_Cadastrodoao .btncadastrodoao {
+	position: absolute;
+	left: 536px;
+	top: 1045px;
+	width: 286px;
+	height: 61px;
+}
+.Cadastrodoao_Cadastrodoao .btncadastrodoao .Rectangle15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 286px;
+	height: 61px;
+	background : rgba(71.00000336766243,229.00000154972076,188.0000039935112,1);
+	border-radius: 8px;
+}
+.Cadastrodoao_Cadastrodoao .btncadastrodoao .Cadastrar {
+	position: absolute;
+	left: 34.017578125px;
+	top: 14.5982666015625px;
+	width: 219.224609375px;
+	height: 32.32476806640625px;
+	color : rgba(255,255,255,1);
+	border: 1px solid rgba(255,255,255,1);
+	font-family: Baumans;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 27.167999267578125px;
+}
+.Cadastrodoao_Cadastrodoao .Tipodadoao {
+	position: absolute;
+	left: 59px;
+	top: 262px;
+	width: 349px;
+	height: 89px;
+	color : rgba(0,0,34.00000177323818,1);
+	mix-blend-mode: normal;
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.Cadastrodoao_Cadastrodoao .Doador {
+	position: absolute;
+	left: -14px;
+	top: 742px;
+	width: 349px;
+	height: 89px;
+	color : rgba(0,0,34.00000177323818,1);
+	mix-blend-mode: normal;
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.Cadastrodoao_Cadastrodoao .Rectangle21 {
+	position: absolute;
+	left: 93px;
+	top: 366px;
+	width: 46px;
+	height: 39px;
+	background : rgba(255,255,255,1);
+	mix-blend-mode: normal;
+	border-radius: 50px;
+	border: 10px solid rgba(68.00000354647636,60.06666764616966,65.69677993655205,1);
+	box-sizing: border-box;
+}
+.Cadastrodoao_Cadastrodoao .Rectangle20 {
+	position: absolute;
+	left: 93px;
+	top: 432px;
+	width: 46px;
+	height: 39px;
+	background : rgba(255,255,255,1);
+	mix-blend-mode: normal;
+	border-radius: 50px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.Cadastrodoao_Cadastrodoao .Descrio {
+	position: absolute;
+	left: 14px;
+	top: 535px;
+	width: 349px;
+	height: 89px;
+	color : rgba(0,0,34.00000177323818,1);
+	mix-blend-mode: normal;
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.Cadastrodoao_Cadastrodoao .Roupa {
+	position: absolute;
+	left: 175px;
+	top: 366px;
+	width: 83px;
+	height: 42px;
+	color : rgba(0,0,0,1);
+	mix-blend-mode: normal;
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.Cadastrodoao_Cadastrodoao .Alimento {
+	position: absolute;
+	left: 174px;
+	top: 433px;
+	width: 118px;
+	height: 42px;
+	color : rgba(0,0,0,1);
+	mix-blend-mode: normal;
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 42.1875px;
+}
+.Cadastrodoao_Cadastrodoao .Vector {
+	position: absolute;
+	left: 907px;
+	top: 462px;
+	width: 4.681927630009542%;
+	height: 4.538087520259319%;
+	mix-blend-mode: normal;
+}
+.Cadastrodoao_Cadastrodoao .Juntos4 {
+	position: absolute;
+	left: -39.882568359375px;
+	top: -5px;
+	width: 15.922870199188932%;
+	height: 14.510443144911111%;
+	object-fit: cover;
+	overflow: hidden;
+	mix-blend-mode: normal;
+}
+.Cadastrodoao_Cadastrodoao .linha {
+	position: absolute;
+	left: -40px;
+	top: 181.17999267578125px;
+	width: 1440.209716796875px;
+	height: 31.002670288085938px;
+	mix-blend-mode: normal;
+}
+.Cadastrodoao_Cadastrodoao .linha .Rectangle24 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.209716796875px;
+	height: 31.002670288085938px;
+	background : rgba(159.0000057220459,159.0000057220459,173.00000488758087,1);
+}
+.Cadastrodoao_Cadastrodoao .linha .Rectangle25 {
+	position: absolute;
+	left: 0px;
+	top: 16px;
+	width: 1440.209716796875px;
+	height: 15.002685546875px;
+	background : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+}
+.Cadastrodoao_Cadastrodoao .Voluntrios {
+	position: absolute;
+	left: 418px;
+	top: 91.17999267578125px;
+	width: 313.010009765625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	mix-blend-mode: normal;
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrodoao_Cadastrodoao .Select {
+	position: absolute;
+	left: 97px;
+	top: 819px;
+	width: 264.723388671875px;
+	height: 45.21075439453125px;
+	display: flex;
+	padding-top: 6px;
+	padding-right: 12px;
+	padding-bottom: 6px;
+	padding-left: 12px;
+	box-sizing: border-box;
+	align-items: center;
+	background : rgba(255,255,255,1);
+	mix-blend-mode: normal;
+	border-radius: 4px;
+	border: 1px solid rgba(0,0,0,1);
+}
+.Cadastrodoao_Cadastrodoao .Select .Select_1 {
+	position: relative;
+	margin-right: 4px;
+	width: 212.031982421875px;
+	height: 20.34124755859375px;
+	color : rgba(117.00000062584877,117.00000062584877,117.00000062584877,1);
+	font-family: Baumans;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Cadastrodoao_Cadastrodoao .Select .PhosphorIconsCaretDown {
+	position: relative;
+	margin-right: 4px;
+	width: 16.025634765625px;
+	height: 16.025726318359375px;
+}
+.Cadastrodoao_Cadastrodoao .Select .PhosphorIconsCaretDown .VectorStroke {
+	position: absolute;
+	left: 2.5087890625px;
+	top: 5.5040283203125px;
+	width: 68.7009643363142%;
+	height: 37.55024936634859%;
+}
+.Cadastrodoao_Cadastrodoao .Beneficirios {
+	position: absolute;
+	left: 648.999755859375px;
+	top: 91.17999267578125px;
+	width: 313.010009765625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	mix-blend-mode: normal;
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrodoao_Cadastrodoao .Configuraes {
+	position: absolute;
+	left: 880.999755859375px;
+	top: 91.17999267578125px;
+	width: 286.010009765625px;
+	height: 38.077178955078125px;
+	color : rgba(0,0,0,1);
+	mix-blend-mode: normal;
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrodoao_Cadastrodoao .SAIR {
+	position: absolute;
+	left: 1101.131591796875px;
+	top: 91.17999267578125px;
+	width: 180.4755859375px;
+	height: 38.0487060546875px;
+	color : rgba(0,0,0,1);
+	mix-blend-mode: normal;
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrodoao_Cadastrodoao .Doaes {
+	position: absolute;
+	left: 221px;
+	top: 91.17999267578125px;
+	width: 313.010009765625px;
+	height: 38.08447265625px;
+	color : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+	mix-blend-mode: normal;
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrodoao_Cadastrodoao .Vector_1 {
+	position: absolute;
+	left: 139.828369140625px;
+	top: 81.3900146484375px;
+	width: 3.775196803435114%;
+	height: 3.819062219060221%;
+	mix-blend-mode: normal;
+}
+.Cadastrodoao_Cadastrodoao .Doaes_1 {
+	position: absolute;
+	left: 87px;
+	top: 91.17999267578125px;
+	width: 313.010009765625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	mix-blend-mode: normal;
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Cadastrodoao_Cadastrodoao .InserirFoto {
+	position: absolute;
+	left: 714px;
+	top: 469px;
+	width: 19.46564885496183%;
+	height: 4.13290113452188%;
+	color : rgba(0,0,0,0.8600000143051147);
+	mix-blend-mode: normal;
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.Cadastrodoao_Cadastrodoao .Vector_2 {
+	position: absolute;
+	left: 711.75px;
+	top: 269.375px;
+	width: 17.36641221374046%;
+	height: 15.741491085899515%;
+}
+.Cadastrodoao_Cadastrodoao .Vector_3 {
+	position: absolute;
+	left: 734.5px;
+	top: 290.95831298828125px;
+	width: 13.893129770992365%;
+	height: 12.243384016584152%;
+}
+.Cadastrodoao_Cadastrodoao .Textarea {
+	position: absolute;
+	left: 97px;
+	top: 580px;
+	width: 303px;
+	height: 134px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	mix-blend-mode: normal;
+}
+.Cadastrodoao_Cadastrodoao .Textarea .Label {
+	position: relative;
+	margin-bottom: 4px;
+	height: 24px;
+	align-self: stretch;
+	color : rgba(66.00000366568565,66.00000366568565,66.00000366568565,1);
+	font-family: Inter;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.Cadastrodoao_Cadastrodoao .Textarea .Textareafocused {
+	position: relative;
+	margin-bottom: 4px;
+	height: 86.00001525878906px;
+	align-self: stretch;
+	background : rgba(255,255,255,1);
+	border-radius: 4px;
+	border: 1px solid rgba(68.00000354647636,60.00000022351742,66.00000366568565,1);
+}
+.Cadastrodoao_Cadastrodoao .Textarea .Textareafocused .placeholder {
+	position: absolute;
+	left: 8px;
+	top: 4px;
+	width: 287px;
+	height: 78px;
+	color : rgba(194.00000363588333,194.00000363588333,194.00000363588333,1);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+}
+.Cadastrodoao_Cadastrodoao .Textarea .Textareafocused .resize {
+	position: absolute;
+	left: 291px;
+	top: 74px;
+	width: 8px;
+	height: 8px;
+}
+.Cadastrodoao_Cadastrodoao .Textarea .Textareafocused .resize .Line1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 8px;
+	height: 8px;
+	border: 1px solid rgba(194.00000363588333,194.00000363588333,194.00000363588333,1);
+}
+.Cadastrodoao_Cadastrodoao .Textarea .Textareafocused .resize .Line2 {
+	position: absolute;
+	left: 4px;
+	top: 4px;
+	width: 4px;
+	height: 4px;
+	border: 1px solid rgba(194.00000363588333,194.00000363588333,194.00000363588333,1);
+}
+.Cadastrodoao_Cadastrodoao .Textarea .Frame2 {
+	position: relative;
+	margin-bottom: 4px;
+	height: 16px;
+	align-self: stretch;
+	display: flex;
+	box-sizing: border-box;
+	justify-content: space-between;
+	align-items: center;
+}
+.Cadastrodoao_Cadastrodoao .Textarea .Frame2 .Helpertext {
+	position: relative;
+	width: 127px;
+	height: 16px;
+	color : rgba(158.00000578165054,158.00000578165054,158.00000578165054,1);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 16px;
+}
+.Cadastrodoao_Cadastrodoao .Textarea .Frame2 ._0100 {
+	position: relative;
+	width: 33px;
+	height: 16px;
+	color : rgba(158.00000578165054,158.00000578165054,158.00000578165054,1);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 16px;
+}
+.Cadastrodoao_Cadastrodoao .ictwotonephotocamerafront {
+	position: absolute;
+	left: 689px;
+	top: 224px;
+	width: 273px;
+	height: 259px;
+	mix-blend-mode: normal;
+}
+.Cadastrodoao_Cadastrodoao .ictwotonephotocamerafront .Vector_4 {
+	position: absolute;
+	left: 198.88671875px;
+	top: 259px;
+	width: 20.96220023466117%;
+	height: 17.56756756756757%;
+}

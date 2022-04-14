@@ -1,0 +1,171 @@
+
+.Verdetalhes_Verdetalhes {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1234px;
+	background : rgba(255,255,255,1);
+}
+.Verdetalhes_Verdetalhes .Verdoao {
+	position: absolute;
+	left: 59px;
+	top: 262px;
+	width: 349px;
+	height: 89px;
+	color : rgba(0,0,34.00000177323818,1);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Bubbler One;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 56.25px;
+}
+.Verdetalhes_Verdetalhes .Rectangle23 {
+	position: absolute;
+	left: 0px;
+	top: 1184px;
+	width: 1310px;
+	height: 50px;
+	background : rgba(4.000000236555934,8.000000473111868,15.000000055879354,1);
+}
+.Verdetalhes_Verdetalhes .btncadastrodoao {
+	position: absolute;
+	left: 536px;
+	top: 1045px;
+	width: 286px;
+	height: 61px;
+}
+.Verdetalhes_Verdetalhes .btncadastrodoao .Rectangle15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 286px;
+	height: 61px;
+	background : rgba(71.00000336766243,229.00000154972076,188.0000039935112,1);
+	border-radius: 8px;
+}
+.Verdetalhes_Verdetalhes .btncadastrodoao .Cadastrar {
+	position: absolute;
+	left: 34.017578125px;
+	top: 14.59814453125px;
+	width: 219.224609375px;
+	height: 32.32470703125px;
+	color : rgba(255,255,255,1);
+	border: 1px solid rgba(255,255,255,1);
+	font-family: Baumans;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 27.167999267578125px;
+}
+.Verdetalhes_Verdetalhes .Juntos4 {
+	position: absolute;
+	left: -39.8828125px;
+	top: -5px;
+	width: 15.922888835877863%;
+	height: 14.510440671849675%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Verdetalhes_Verdetalhes .linha {
+	position: absolute;
+	left: -40px;
+	top: 181.179931640625px;
+	width: 1440.2099609375px;
+	height: 31.002685546875px;
+}
+.Verdetalhes_Verdetalhes .linha .Rectangle24 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.2099609375px;
+	height: 31.002685546875px;
+	background : rgba(159.0000057220459,159.0000057220459,173.00000488758087,1);
+}
+.Verdetalhes_Verdetalhes .linha .Rectangle25 {
+	position: absolute;
+	left: 0px;
+	top: 16px;
+	width: 1440.2099609375px;
+	height: 15.002685546875px;
+	background : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+}
+.Verdetalhes_Verdetalhes .Voluntrios {
+	position: absolute;
+	left: 417.99951171875px;
+	top: 91.1800537109375px;
+	width: 313.01025390625px;
+	height: 38.08447265625px;
+	color : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Verdetalhes_Verdetalhes .Beneficirios {
+	position: absolute;
+	left: 648.99951171875px;
+	top: 91.1800537109375px;
+	width: 313.01025390625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Verdetalhes_Verdetalhes .Configuraes {
+	position: absolute;
+	left: 880.99951171875px;
+	top: 91.1800537109375px;
+	width: 286.01025390625px;
+	height: 38.0771484375px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Verdetalhes_Verdetalhes .SAIR {
+	position: absolute;
+	left: 1101.13134765625px;
+	top: 91.1800537109375px;
+	width: 214.01025390625px;
+	height: 38.0577392578125px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Verdetalhes_Verdetalhes .Doaes {
+	position: absolute;
+	left: 220.99951171875px;
+	top: 91.1800537109375px;
+	width: 313.01025390625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.Verdetalhes_Verdetalhes .Vector {
+	position: absolute;
+	left: 139.828125px;
+	top: 81.3900146484375px;
+	width: 3.775196803435114%;
+	height: 3.8190597459987847%;
+}
+.Verdetalhes_Verdetalhes .Doaes_1 {
+	position: absolute;
+	left: 86.99951171875px;
+	top: 91.1800537109375px;
+	width: 313.01025390625px;
+	height: 38.08447265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}

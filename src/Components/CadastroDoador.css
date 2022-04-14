@@ -1,0 +1,446 @@
+
+.CadastroDoador_CadastroDoador {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 1246px;
+	background : rgba(255,255,255,1);
+}
+.CadastroDoador_CadastroDoador .CADASTRODOADOR {
+	position: absolute;
+	left: 65px;
+	top: 264px;
+	width: 272px;
+	height: 37px;
+	color : rgba(196.00000351667404,196.00000351667404,196.00000351667404,1);
+	border: 1px solid rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroDoador_CadastroDoador .Rectangle27 {
+	position: absolute;
+	left: 0px;
+	top: 1196px;
+	width: 1440px;
+	height: 50px;
+	background : rgba(4.000000236555934,8.000000473111868,15.000000055879354,1);
+}
+.CadastroDoador_CadastroDoador .btncadastrodoao {
+	position: absolute;
+	left: 597px;
+	top: 1057px;
+	width: 286px;
+	height: 61px;
+}
+.CadastroDoador_CadastroDoador .btncadastrodoao .Rectangle15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 286px;
+	height: 61px;
+	background : rgba(71.00000336766243,229.00000154972076,188.0000039935112,1);
+	border-radius: 8px;
+}
+.CadastroDoador_CadastroDoador .btncadastrodoao .Cadastrar {
+	position: absolute;
+	left: 34.017578125px;
+	top: 14.5982666015625px;
+	width: 219.224609375px;
+	height: 32.3248291015625px;
+	color : rgba(255,255,255,1);
+	border: 1px solid rgba(255,255,255,1);
+	font-family: Baumans;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 27.167999267578125px;
+}
+.CadastroDoador_CadastroDoador .Nome {
+	position: absolute;
+	left: 65px;
+	top: 356px;
+	width: 255px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroDoador_CadastroDoador .Rectangle29 {
+	position: absolute;
+	left: 65px;
+	top: 533px;
+	width: 610px;
+	height: 39px;
+}
+.CadastroDoador_CadastroDoador .Rectangle32 {
+	position: absolute;
+	left: 70px;
+	top: 398px;
+	width: 610px;
+	height: 39px;
+}
+.CadastroDoador_CadastroDoador .DocumentoCPFCNPJ {
+	position: absolute;
+	left: 65px;
+	top: 489px;
+	width: 410px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroDoador_CadastroDoador .Rectangle30 {
+	position: absolute;
+	left: 65px;
+	top: 803px;
+	width: 610px;
+	height: 39px;
+}
+.CadastroDoador_CadastroDoador .Telefone {
+	position: absolute;
+	left: 65px;
+	top: 759px;
+	width: 129px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroDoador_CadastroDoador .PessoaFsica {
+	position: absolute;
+	left: 943px;
+	top: 849px;
+	width: 223px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroDoador_CadastroDoador .PessoaJurdica {
+	position: absolute;
+	left: 943px;
+	top: 926px;
+	width: 256px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroDoador_CadastroDoador .Rectangle31 {
+	position: absolute;
+	left: 65px;
+	top: 668px;
+	width: 610px;
+	height: 39px;
+}
+.CadastroDoador_CadastroDoador .Endereo {
+	position: absolute;
+	left: 65px;
+	top: 624px;
+	width: 255px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroDoador_CadastroDoador .check_box {
+	position: absolute;
+	left: 880px;
+	top: 849px;
+	width: 40px;
+	height: 40px;
+}
+.CadastroDoador_CadastroDoador .check_box .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.CadastroDoador_CadastroDoador .check_box .Vector_1 {
+	position: absolute;
+	left: 5px;
+	top: 5px;
+	width: 75%;
+	height: 75%;
+}
+.CadastroDoador_CadastroDoador .Vector_2 {
+	position: absolute;
+	left: 880px;
+	top: 926px;
+	width: 2.7777777777777777%;
+	height: 3.210272873194221%;
+}
+.CadastroDoador_CadastroDoador .Juntos2 {
+	position: absolute;
+	left: 0.122314453125px;
+	top: 3px;
+	width: 14.485388861762152%;
+	height: 14.370693249648877%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CadastroDoador_CadastroDoador .linha {
+	position: absolute;
+	left: 2px;
+	top: 186.175537109375px;
+	width: 1440.2099609375px;
+	height: 31.002685546875px;
+}
+.CadastroDoador_CadastroDoador .linha .Rectangle24 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440.2099609375px;
+	height: 31.002685546875px;
+	background : rgba(159.0000057220459,159.0000057220459,173.00000488758087,1);
+}
+.CadastroDoador_CadastroDoador .linha .Rectangle25 {
+	position: absolute;
+	left: 0px;
+	top: 16px;
+	width: 1440.2099609375px;
+	height: 15.002685546875px;
+	background : rgba(129.00000751018524,228.0000016093254,218.00000220537186,1);
+}
+.CadastroDoador_CadastroDoador .Voluntrios {
+	position: absolute;
+	left: 458px;
+	top: 91.17999267578125px;
+	width: 313.009765625px;
+	height: 38.08453369140625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroDoador_CadastroDoador .Beneficirios {
+	position: absolute;
+	left: 688.99951171875px;
+	top: 91.17999267578125px;
+	width: 313.01025390625px;
+	height: 38.08453369140625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroDoador_CadastroDoador .Configuraes {
+	position: absolute;
+	left: 920.99951171875px;
+	top: 91.17999267578125px;
+	width: 286.01025390625px;
+	height: 38.07720947265625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroDoador_CadastroDoador .SAIR {
+	position: absolute;
+	left: 1141.1298828125px;
+	top: 91.17999267578125px;
+	width: 214.01025390625px;
+	height: 38.05780029296875px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroDoador_CadastroDoador .Doaes {
+	position: absolute;
+	left: 261px;
+	top: 91.17999267578125px;
+	width: 313.009765625px;
+	height: 38.08453369140625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroDoador_CadastroDoador .Vector_3 {
+	position: absolute;
+	left: 179.830078125px;
+	top: 81.3900146484375px;
+	width: 3.4343804253472223%;
+	height: 3.782279074287721%;
+}
+.CadastroDoador_CadastroDoador .Doaes_1 {
+	position: absolute;
+	left: 127px;
+	top: 91.17999267578125px;
+	width: 313.010009765625px;
+	height: 38.08453369140625px;
+	color : rgba(0,0,0,1);
+	font-family: Baumans;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 35.15625px;
+}
+.CadastroDoador_CadastroDoador .Rectangle28 {
+	position: absolute;
+	left: 70px;
+	top: 938px;
+	width: 610px;
+	height: 39px;
+}
+.CadastroDoador_CadastroDoador .DatadeNascimento {
+	position: absolute;
+	left: 70px;
+	top: 894px;
+	width: 305px;
+	height: 51px;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroDoador_CadastroDoador .Group79 {
+	position: absolute;
+	left: 850px;
+	top: 309px;
+	width: 291px;
+	height: 336px;
+}
+.CadastroDoador_CadastroDoador .Group79 .InserirFoto {
+	position: absolute;
+	left: 24px;
+	top: 285px;
+	width: 87.62886597938144%;
+	height: 15.178571428571427%;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroDoador_CadastroDoador .Group79 .Vector_4 {
+	position: absolute;
+	left: 227px;
+	top: 280px;
+	width: 21.076802781357387%;
+	height: 16.666666666666664%;
+}
+.CadastroDoador_CadastroDoador .Group79 .ictwotonephotocamerafront {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 88.09523809523809%;
+}
+.CadastroDoador_CadastroDoador .Group79 .ictwotonephotocamerafront .Vector_5 {
+	position: absolute;
+	left: 48.5px;
+	top: 61.6666259765625px;
+	width: 66.66666666666666%;
+	height: 58.333319586676524%;
+}
+.CadastroDoador_CadastroDoador .Group79 .ictwotonephotocamerafront .Vector_6 {
+	position: absolute;
+	left: 24.25px;
+	top: 37px;
+	width: 83.33333333333334%;
+	height: 75%;
+}
+.CadastroDoador_CadastroDoador .Group79 .InserirFoto_1 {
+	position: absolute;
+	left: 24px;
+	top: 285px;
+	width: 87.62886597938144%;
+	height: 15.178571428571427%;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroDoador_CadastroDoador .Group79 .Vector_7 {
+	position: absolute;
+	left: 227px;
+	top: 280px;
+	width: 21.076802781357387%;
+	height: 16.666666666666664%;
+}
+.CadastroDoador_CadastroDoador .Group79 .ictwotonephotocamerafront_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 88.09523809523809%;
+}
+.CadastroDoador_CadastroDoador .Group79 .ictwotonephotocamerafront_1 .Vector_8 {
+	position: absolute;
+	left: 48.5px;
+	top: 61.6666259765625px;
+	width: 66.66666666666666%;
+	height: 58.333319586676524%;
+}
+.CadastroDoador_CadastroDoador .Group79 .ictwotonephotocamerafront_1 .Vector_9 {
+	position: absolute;
+	left: 24.25px;
+	top: 37px;
+	width: 83.33333333333334%;
+	height: 75%;
+}
+.CadastroDoador_CadastroDoador .Group79 .InserirFoto_2 {
+	position: absolute;
+	left: 24px;
+	top: 285px;
+	width: 87.62886597938144%;
+	height: 15.178571428571427%;
+	color : rgba(0,0,0,0.8600000143051147);
+	font-family: Bubbler One;
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 40.75199890136719px;
+}
+.CadastroDoador_CadastroDoador .Group79 .Vector_10 {
+	position: absolute;
+	left: 227px;
+	top: 280px;
+	width: 21.076802781357387%;
+	height: 16.666666666666664%;
+}
+.CadastroDoador_CadastroDoador .Group79 .ictwotonephotocamerafront_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 88.09523809523809%;
+}
+.CadastroDoador_CadastroDoador .Group79 .ictwotonephotocamerafront_2 .Vector_11 {
+	position: absolute;
+	left: 48.5px;
+	top: 61.6666259765625px;
+	width: 66.66666666666666%;
+	height: 58.333319586676524%;
+}
+.CadastroDoador_CadastroDoador .Group79 .ictwotonephotocamerafront_2 .Vector_12 {
+	position: absolute;
+	left: 24.25px;
+	top: 37px;
+	width: 83.33333333333334%;
+	height: 75%;
+	mix-blend-mode: normal;
+}
